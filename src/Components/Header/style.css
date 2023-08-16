@@ -1,0 +1,25 @@
+.header{
+  border: 1px solid red;
+  display: flex;
+  padding: 1rem;
+  max-width: auto;
+}
+
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.logo{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.login{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
